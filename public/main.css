@@ -1,0 +1,177 @@
+section{
+    background-color: #039c78;
+}
+
+.navbar-light .navbar-brand{
+    font-size: 40px;
+    color: white;
+}
+.nav-item {
+        padding-left:15px;
+        padding-right:15px;
+       font-size: 23px;
+       font-weight: bold;
+}
+.nav-item:hover{
+    background-color: palegreen;
+}
+#mainhr { 
+    background-color:white;
+    height: 6px;
+    border-radius:10px;
+    width: 100%; 
+    margin-bottom: 100px;
+}
+.navbar-light .navbar-nav .nav-link{
+    color:white;
+}
+#first{
+    font-size: 50px;
+}
+#first-para{
+    font-size: 20px;
+}
+#buynow{
+    margin-bottom: 40px;
+	  background-color:  #039c78; 
+  width:200px;
+  color: white;
+}
+.dot {
+    margin-left: 110px;
+    margin-top: 80px;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    border: 3px solid #0e9fe8;;
+    background-color: #0e9fe8;
+}
+.dot:hover{
+    background-color: white;
+}
+
+.image1 {
+    width: 40%;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+.image2 {
+    width: 70%;
+    margin-left: 19px;
+    margin-top: 20px;
+}
+.image3{
+    width: 65%;
+    margin-left: 19px;
+    margin-top: 20px;
+}
+
+ .second-para {
+    font-size: 22px;
+   margin-left: 30px;
+   margin-bottom: 50px;
+}
+.cardhr{
+    border: 3px solid  #039c78;
+    border-radius: 10px;
+}
+.cardone img{
+    width:150%;
+   margin-left: 100px;
+}
+.card-title{
+    margin-left: 18px;
+}
+.books{
+    background-color:#f7fbfc;
+}
+
+#heading{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+ .new img{
+    width: 150px;
+    margin-left:32px;
+    margin-top: 20px;
+}
+.parttwo{
+	width: 1000px;
+    margin-left:50px;
+    margin-top: 20px;
+	margin-bottom: 10px;
+	margin-left:25px;
+	display:none;
+}
+
+h3{
+    text-align: center;
+}
+h6{
+    font-weight: bold;
+    margin-bottom: 70px;
+}
+.newdeck {
+    margin-bottom: 20px;
+	margin-left:60px;
+}
+.newdeckone{
+	 margin-bottom: 20px;	
+}
+.books button{
+    background-color:  #039c78; 
+  width:200px;
+  color: white;
+  margin-bottom: 50px;
+}
+.headertwo{
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+
+.viewall{
+
+    background-color:  #039c78; 
+    
+      width:200px;
+      color: white;
+      margin-bottom: 30px;
+}
+
+i {
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.fa-5x {
+   margin-left: 90px;
+}
+
+.col-md-3 .fa:hover {
+    color:#039c78 !important ;
+}
+.different .card{
+    border: none;
+    border-radius: 5px;
+}
+
+.footer p {
+    text-align: center;
+}
+.col-md-3{
+    margin-bottom: 10px;;
+}
+ .col-md-4{
+    margin-bottom: 10px;
+}
+.newdeckthree{
+	margin-bottom: 10px;
+	margin-left:25px;
+}
+.partthree{
+	display:none;
+	
+}
